@@ -9,5 +9,6 @@ Coming: GNU Radio sniffers + Kyber crypto bridge + real-time anomaly alerts.
 - git clone the url
 - cd into
 - pip install minus r requirements dot txt
+- Plug into GNU Radio with this sample flowgraph: ! (flowgraph.jpeg)
 
 Fork, improve, secure the sky.
