@@ -5,4 +5,8 @@ Backward-compatible, open-source, deployable on $20 rooftop SDRs.
 Authored by Lyle Antoine, Newfoundland hacker. 
 Built for ground truth, hardened for space. 
 Coming: GNU Radio sniffers + Kyber crypto bridge + real-time anomaly alerts. 
+##Getting Started
+- git clone the url
+- cd in
+- pip install minus r requirements dot txt
 Fork, improve, secure the sky.
