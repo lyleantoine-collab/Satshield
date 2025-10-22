@@ -6,7 +6,8 @@ We're asking forty thousand to get:
 fifty Pi fives, flasher kit, rugged laptop, USB hub-plus one full-time dev and one summer student.
 
 Result: 
-secure comms, two new STEM jobs-one tech, one First Nations summer student-rugged laptop, USB hub, and a thousand-dollar unit that turns profit on sale forty. 
+secure comms, two new STEM jobs-one tech, one First Nations summer student-rugged laptop, USB hub, and a $1,000 unit that turns profit on sale forty. 
+
 Revenue: 
 forty grand year one. 
 
