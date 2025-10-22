@@ -2,6 +2,7 @@ First Nations-led SatShield:
 Raspberry Pi five relay that stops last week's satellite data leaks-no more open comms. 
 Plug between router and dish, AES-two-fifty-six encryption, zero cloud. 
 
+
 We're asking forty thousand to get: 
 fifty Pi fives, flasher kit, rugged laptop, USB hub-plus one full-time dev and one summer student.
 
