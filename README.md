@@ -1,7 +1,7 @@
 # SatShield – Satellite Signal Shield
 
 **Lightweight encryption for legacy & future satcom.**  
-Arctic-proof. $20 SDR deployable. Northern sovereignty.
+ $20 SDR deployable. Northern sovereignty.
 
 > *"Built for ground truth. Hardened for space."*  
 > — **Lyle Antoine**, Newfoundland hacker
